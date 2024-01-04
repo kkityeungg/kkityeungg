@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn3.vectorstock.com/i/1000x1000/72/07/data-science-banner-concept-vector-27527207.jpg)]()
+[![MasterHead]([https://cdn3.vectorstock.com/i/1000x1000/72/07/data-science-banner-concept-vector-27527207.jpg](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png))]()
 <h1 align="center">👋, This is Chun-Kit Yeung</h1>
 
 <p align="left">
