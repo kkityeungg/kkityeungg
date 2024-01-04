@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
-<h1 align="center">Hi 👋, I'm Chun-Kit Yeung</h1>
-<h3 align="center">A passionate Data Analyst from the UK.</h3>
+[![MasterHead](https://cdn3.vectorstock.com/i/1000x1000/72/07/data-science-banner-concept-vector-27527207.jpg)]()
+<h1 align="center">👋, This is Chun-Kit Yeung</h1>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
