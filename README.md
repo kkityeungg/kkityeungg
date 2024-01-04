@@ -1,7 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
 <h1 align="center">Hi 👋, I'm Chun-Kit Yeung</h1>
 <h3 align="center">A passionate Data Analyst from the UK.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkityeungg&label=Profile%20views&color=0e75b6&style=flat" alt="kkityeungg" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
